@@ -5,11 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/ayushagarwal/Desktop/CS 415/MP1/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
-				"/Users/ayushagarwal/Desktop/CS 415/MP1/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
-				"/Users/ayushagarwal/Desktop/CS 415/MP1/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Maps/TutorialMap.umap",
-				"/Users/ayushagarwal/Desktop/CS 415/MP1/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
-				"/Users/ayushagarwal/Desktop/CS 415/MP1/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/WBP_Restart.uasset"
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/HealthBar_HUD.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/Score_HUD.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/Projectile.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/MI_ProjectileColor.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/MI_HealthPack.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/MI_Enemy.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/Projectile.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/MI_Projectile.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/M_Projectile.uasset",
+				"/Users/ayushagarwal/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/HealthBar_HUD.uasset"
 			]
 		}
 	]
